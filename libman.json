@@ -33,7 +33,7 @@
             [
                 "umd/react.production.min.js"
             ]
-        },
+        }
     ],
     "license": {
         "Angular": {
