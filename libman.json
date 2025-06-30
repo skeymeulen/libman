@@ -27,7 +27,7 @@
         },
         {
             "provider": "filesystem",
-            "library":  "JQuery-Migrate 3.5.2",
+            "library":  "JQuery Migrate 3.5.2",
             "destination": " ",
             "files": []
         },
