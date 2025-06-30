@@ -39,7 +39,19 @@
             [
                 "umd/react.production.min.js"
             ]
-        }
+        },
+        {
+            "library": "font-awesome@6.0.0",
+            "files": []
+        },
+        {
+            "library": "bootstrap@5.3.3",
+            "files": []
+        },
+        {
+            "library": "angular-intl-tel-input@latest",
+            "files": []
+        },
     ],
     "license": {
         "Angular": {
