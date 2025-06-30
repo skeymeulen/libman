@@ -51,7 +51,7 @@
         {
             "library": "angular-intl-tel-input@latest",
             "files": []
-        },
+        }
     ],
     "license": {
         "Angular": {
