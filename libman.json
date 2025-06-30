@@ -26,6 +26,12 @@
             "files": []
         },
         {
+            "provider": "filesystem",
+            "library":  "JQuery Migrate 3.5.2",
+            "destination": " ",
+            "files": []
+        },
+        {
             "provider": "unpkg",
             "library": "react@16.14.0",
             "destination": "wwwroot/lib/react/",
