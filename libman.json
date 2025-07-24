@@ -1,18 +1,34 @@
 {
     "version": "3.0",
+    "defaultProvider": "cdnjs",
+    "defaultDestination": " ",
     "libraries": [
         {
-            "provider": "filesystem",
-            "library": "Minireset_css 0.0.6",
-            "destination": " ",
+            "library": "font-awesome@6.0.0",
+            "files": []
+        },
+        {
+            "library": "bootstrap@5.3.3",
+            "files": []
+        },
+        {
+            "library": "angular-intl-tel-input@25.3.1",
+            "files": []
+        },
+        {
+            "provider": "custom",
+            "path": "https://use.typekit.net/ijw8brz.css",
+            "files": []
+        },
+        {
+            "provider": "custom",
+            "path": "https://kit.fontawesome.com/4eeeda2bfb.js",
+            "files": []
+        },
+        {
+            "provider": "custom",
+            "path": "https://editor.unlayer.com/embed.js",
             "files": []
         }
-    ],
-    "license": {
-        "Minireset_css 0.0.6": {
-            "version": "0.0.6",
-            "licenseType": "MIT"
-        }
-
-    }
+    ]
 }
